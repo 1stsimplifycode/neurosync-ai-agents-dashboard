@@ -56,6 +56,11 @@ It means Atos can offer clients workflows that are alive — evolving with every
 Owning NeuroSync’s growing memory positions Atos not just as a service provider, but as an industry thought leader in <strong>AI-powered, knowledge-driven delivery</strong>.
 </p>
 
+<h2>Try Our Solution</h2>
+<p>
+Click here to see the demo of our solution : https://neurosync.figma.site/
+</p>
+
 <h2>The Vision</h2>
 <p>
 We imagine a future where knowledge never dies — where every solved problem becomes a stepping stone for the next challenge, where every expert’s thinking becomes part of the collective intelligence of the organization.
