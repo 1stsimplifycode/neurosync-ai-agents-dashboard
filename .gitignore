@@ -1,0 +1,54 @@
+# Node.js / npm
+node_modules/
+npm-debug.log*
+yarn-error.log
+yarn-debug.log
+.pnpm-debug.log
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Build output
+dist/
+build/
+out/
+.next/
+.nuxt/
+/.nyc_output
+/coverage
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+!.env.example  # Keep this if you want to commit an example
+
+# Editors / IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Testing
+coverage/
+.nyc_output/
+__snapshots__/
+
+# Git
+.git/
+
+# OS generated
+$RECYCLE.BIN/
+Desktop.ini
