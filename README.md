@@ -1,3 +1,7 @@
+<div align="center"><img src="https://raw.githubusercontent.com/1stsimplifycode/1stsimplifycode/main/assets/universal-project-3d.svg" width="100%" alt="Animated isometric engineering project" /></div>
+
+[← Portfolio](https://github.com/1stsimplifycode) · [Domains](https://github.com/1stsimplifycode/1stsimplifycode/blob/main/docs/PROJECT_DIRECTORY.md)
+
 <h1>NeuroSync – The Enterprise Memory That Never Forgets</h1>
 
 <h2>A System That’s Hungry for Knowledge</h2>
